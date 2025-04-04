@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 03 Apr 2025 23:55:29 at https://monetizevideosmotivacionais.shop/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://monetizevideosmotivacionais.shop/ -O1 "C:\Meus Sites\videosvirais" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:55:53	Warning: 	Moved Permanently for https://monetizevideosmotivacionais.shop/?p=146
+23:55:53	Warning: 	File has moved from https://monetizevideosmotivacionais.shop/?p=146 to https://monetizevideosmotivacionais.shop/ofertaexclusiva/
+23:55:54	Warning: 	Moved Permanently for https://monetizevideosmotivacionais.shop/?p=216
+23:55:54	Warning: 	File has moved from https://monetizevideosmotivacionais.shop/?p=216 to https://monetizevideosmotivacionais.shop/remodelar-videos-motivacionais/
+23:55:54	Warning: 	Moved Permanently for https://monetizevideosmotivacionais.shop/?elementor_library=asafe-01
+23:55:54	Warning: 	File has moved from https://monetizevideosmotivacionais.shop/?elementor_library=asafe-01 to https://monetizevideosmotivacionais.shop
+23:55:54	Error: 	"Not Found" (404) at link https://monetizevideosmotivacionais.shop/POST (from https://connect.facebook.net/en_US/fbevents.js)
+23:55:54	Error: 	"Not Found" (404) at link https://monetizevideosmotivacionais.shop/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+23:55:54	Error: 	"Not Found" (404) at link https://monetizevideosmotivacionais.shop/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+23:55:54	Error: 	"Not Found" (404) at link https://monetizevideosmotivacionais.shop/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+23:55:54	Error: 	"Not Found" (404) at link https://monetizevideosmotivacionais.shop/c.dl (from https://connect.facebook.net/en_US/fbevents.js)
+23:55:54	Error: 	"Not Found" (404) at link https://monetizevideosmotivacionais.shop/c.rl (from https://connect.facebook.net/en_US/fbevents.js)
+23:55:54	Warning: 	Moved Permanently for https://monetizevideosmotivacionais.shop/?elementor_library=ensinar-a-como-remodelar-videos
+23:55:54	Warning: 	File has moved from https://monetizevideosmotivacionais.shop/?elementor_library=ensinar-a-como-remodelar-videos to https://monetizevideosmotivacionais.shop
+23:55:54	Error: 	"Not Found" (404) at link https://monetizevideosmotivacionais.shop/t.params.url (from https://monetizevideosmotivacionais.shop/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+23:55:54	Error: 	"Not Found" (404) at link https://monetizevideosmotivacionais.shop/-negative.svg (from https://monetizevideosmotivacionais.shop/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
+23:55:54	Error: 	"Not Found" (404) at link https://monetizevideosmotivacionais.shop/OPR/ (from https://monetizevideosmotivacionais.shop/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 91 links scanned, 77 files written (13128500 bytes overall) [11665807 bytes received at 466632 bytes/sec], 2589624 bytes transferred using HTTP compression in 53 files, ratio 19%, 10.4 requests per connection
+(9 errors, 8 warnings, 0 messages)
